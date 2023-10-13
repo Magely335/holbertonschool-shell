@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Aca | td ac ze
+echo input | td ac ze
