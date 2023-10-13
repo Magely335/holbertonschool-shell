@@ -1,2 +1,2 @@
 #!/bin/bash
-echo input | td ac ze
+echo "input" | tr 'ac' 'ze'
