@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(tr 'ac' 'ze' < input)"
+tr 'ac' 'ze' < input | cat
