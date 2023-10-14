@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'ac' 'ze' < input > input 
+echo "$(tr 'ac' 'ze' < input)"
